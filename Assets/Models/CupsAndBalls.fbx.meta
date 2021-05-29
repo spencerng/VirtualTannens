@@ -3,7 +3,52 @@ guid: e15848de36f85fb4895464b430c89351
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copper
+    second: {fileID: 2100000, guid: 86381e5641afe504f98cb39a85d71f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather
+    second: {fileID: 2100000, guid: e07c7c60379da2348a0b5f33d89046ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__copper1
+    second: {fileID: 2100000, guid: f86c7f5a815a2e84293a9a810e3bd6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__copper2
+    second: {fileID: 2100000, guid: 966ccee23a95df14ba56d53ca8f145cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__copper3
+    second: {fileID: 2100000, guid: 1fa36a5167e338d4293f79bcb4407f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__copper2
+    second: {fileID: 2100000, guid: cabca2bcbbf785a46afcbb8e7ed24084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__white_crochet
+    second: {fileID: 2100000, guid: 90ae2a548909c6245a78b16ed6452b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__white_crochet1
+    second: {fileID: 2100000, guid: 7b2d1d4a207fb984f9691476d761cb18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_crochet
+    second: {fileID: 2100000, guid: 04a0e5053b7ab944cb3d828344ee22d6, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
