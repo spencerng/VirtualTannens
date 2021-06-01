@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: card_back
+    second: {fileID: 2100000, guid: b2417bdfa898db94393eb6bd653b3133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: card_front
     second: {fileID: 2100000, guid: d2d88d6bd11a1ec4cba0c18eb315227e, type: 2}
   - first:
